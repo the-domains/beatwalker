@@ -1,7 +1,7 @@
 name: Beatwalker
 favicon: null
-layout_spectrum: 0.5123426923528314
-typography_spectrum: 0.3561678093392402
+layout_spectrum: 1
+typography_spectrum: 1
 title: 'DJ/Producer '
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.6227377010509372
-  lightness: 0.8557082582265139
-  saturation: 0.399613028857857
-  rhythmicContrast: 0.2474694987758994
+    - '#020202'
+    - '#707382'
+    - '#403732'
+    - '#fefefe'
+    - '#f0c884'
+  brandStrength: 0.25
+  lightness: 0.3125
+  saturation: 0.75
+  rhythmicContrast: 0.25
 purpose: []
