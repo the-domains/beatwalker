@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Beatwalker Live\_"
-datePublished: '2016-04-02T06:48:37.032Z'
-dateModified: '2016-04-02T06:47:15.948Z'
+datePublished: '2016-04-02T16:33:02.295Z'
+dateModified: '2016-04-02T16:32:53.597Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-02-beatwalker-live.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-02-beatwalker-live.md
-published: true
 url: beatwalker-live/index.html
 _type: Article
 
