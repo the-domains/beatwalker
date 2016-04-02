@@ -1,0 +1,28 @@
+name: Beatwalker
+favicon: null
+layout_spectrum: 0.5123426923528314
+typography_spectrum: 0.3561678093392402
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6227377010509372
+  lightness: 0.8557082582265139
+  saturation: 0.399613028857857
+  rhythmicContrast: 0.2474694987758994
+purpose: []
