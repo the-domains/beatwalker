@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Beatwalker]]></title>
-        <description><![CDATA[Beatwalker]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[DJ/Producer ]]></title>
+        <description><![CDATA[DJ/Producer ]]></description>
+        <link>https://thegrid.ai/beatwalker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 06:48:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Apr 2016 07:31:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/beatwalker/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CAPPA - No Scrubs (Beatwalker & Silva Remix) by Beatwalker]]></title>
+            <description><![CDATA[<article><h1>CAPPA - No Scrubs (Beatwalker & Silva Remix) by Beatwalker</h1><p>Free Download: http://get.tndn.io/l/95qeufUAIb Chill House & Moombah Remix by Beatwalker & Silva Original vocals by CAPPA Original Track: https://soundcloud.com/cappa-music/no-scrubs-feat-jon-santana Follow CAPPA: https://soundcloud.com/cappa-music https://www.facebook.com/cappamusic https://www.youtube.com/user/carlacappamusic Silva: https://soundcloud.com/iam-silva https://www.facebook.com/Silva-756177101141101 https://twitter.com/_iamsilva_</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b88a0bd83cbb9d7faeb7c7a777579137f67c005a.jpg"></article>]]></description>
+            <link>https://soundcloud.com/beatwalkerofficial/cappa-no-scrubs-beatwalker-silva-remix</link>
+            <guid isPermaLink="false">a3e036d2-32bc-4664-abde-0dd51991dc0c</guid>
+            <pubDate>Sat, 02 Apr 2016 07:31:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be6c34df-a51e-4e20-bcc6-a89d96b87949.jpg">]]></description>
-            <link>undefinedbeatwalker-live/index.html</link>
+            <link>https://thegrid.ai/beatwalker/beatwalker-live/index.html</link>
             <guid isPermaLink="false">b213c63c-856c-41a8-a0e6-3e763c1dc208</guid>
             <pubDate>Sat, 02 Apr 2016 06:48:37 GMT</pubDate>
         </item>
